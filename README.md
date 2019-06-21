@@ -1,5 +1,6 @@
 # BP_SP_on_HC
-Belief Propagation and Susceptibility Propagation on the Human Connectome (998)
+Belief Propagation and Susceptibility Propagation on the Human Connectome (998).
+
 For details about this algorithm see the preprint version of the paper: https://arxiv.org/abs/1906.05369.
 
 ## Prerequisites
