@@ -8,7 +8,7 @@ At least 8 Gb RAM is required
 
 ## Description
 To execute the algorithm, open [main.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/main.m). It contains five [functions](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/):
-* [update_bp.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/update_bp.m): This function updates the messages of BP, h_{i->j}, $ u_{i->j} $.
+* [update_bp.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/update_bp.m): This function updates the messages of BP, h_{i->j}, $$ u_{i->j} $$.
 * [magnet.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/magnet.m): This function calculates the activations (local magnetizations) once the messages converge.
 * [update_sp.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/update_sp.m): This function updates the messages of SP, g_{i->j,k}, v_{i->j,k}.
 * [susceptibility.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/susceptibility.m): This function calculates the long-range correlations after the convergence of the SP messages.
