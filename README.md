@@ -1,7 +1,7 @@
 # BP_SP_on_HC
 Belief Propagation and Susceptibility Propagation on the Human Connectome (998).
 
-For details about this algorithm see the preprint version of the paper: https://arxiv.org/abs/1906.05369.
+For details about this algorithm see the preprint version of the paper "[Modeling functional resting-state brain networks through neural message passing on the human connectome](https://arxiv.org/abs/1906.05369)".
 
 ## Prerequisites
 At least 8 Gb RAM is required
