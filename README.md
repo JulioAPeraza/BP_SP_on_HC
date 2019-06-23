@@ -16,7 +16,7 @@ To execute the algorithm, open [main.m](https://github.com/JulioAPeraza/BP_SP_on
   
 ## Usage
 ```matlab
-main.m
+main
 ```
   
   ## Contributing
