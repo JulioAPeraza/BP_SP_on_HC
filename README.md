@@ -17,6 +17,7 @@ To execute the algorithm, open [main.m](https://github.com/JulioAPeraza/BP_SP_on
 * [visualization.m](https://github.com/JulioAPeraza/BP_SP_on_HC/blob/master/fucntions/visualization.m): This function is optional, it just visualizes the activation maps obtained with the BP and the long-range correlation matrix from SP.
   
 ## Usage
+Enter the next statement in Command Window of Matlab:
 ```matlab
 main
 ```
