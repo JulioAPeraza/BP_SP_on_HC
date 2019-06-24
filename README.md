@@ -9,12 +9,12 @@ For details about this algorithm see the preprint version of the paper "[Modelin
 At least 8 Gb RAM is required
 
 ## Description
-To execute the algorithm, open [main.m](main.m). It contains five [functions](fucntions/):
-* [update_bp.m](fucntions/update_bp.m): This function updates the messages of BP, h_{i->j}, u_{i->j}.
-* [magnet.m](fucntions/magnet.m): This function calculates the activations (local magnetizations) once the messages converge.
-* [update_sp.m](fucntions/update_sp.m): This function updates the messages of SP, g_{i->j,k}, v_{i->j,k} at (T_C).
-* [susceptibility.m](fucntions/susceptibility.m): This function calculates the long-range correlations at (T_C) after the convergence of the SP messages.
-* [visualization.m](fucntions/visualization.m): This function is optional, it just visualizes the activation maps obtained with the BP and the long-range correlation matrix from SP.
+To execute the algorithm, open [main.m](main.m). It contains five [functions](functions/):
+* [update_bp.m](functions/update_bp.m): This function updates the messages of BP, h_{i->j}, u_{i->j}.
+* [magnet.m](functions/magnet.m): This function calculates the activations (local magnetizations) once the messages converge.
+* [update_sp.m](functions/update_sp.m): This function updates the messages of SP, g_{i->j,k}, v_{i->j,k} at (T_C).
+* [susceptibility.m](functions/susceptibility.m): This function calculates the long-range correlations at (T_C) after the convergence of the SP messages.
+* [visualization.m](functions/visualization.m): This function is optional, it just visualizes the activation maps obtained with the BP and the long-range correlation matrix from SP.
   
 ## Usage
 Enter the next statement in Command Window of Matlab:
