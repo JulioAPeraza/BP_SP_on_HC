@@ -1,7 +1,7 @@
 # BP_SP_on_HC
 Belief Propagation (BP) and Susceptibility Propagation (SP) algorithm for solving the Direct Ising problem on the Human Connectome (998) in criticality.
 
-The critical parameter (T_C) is determined using the [Metropolis algorithm]().
+The critical parameter (T_C) is determined using the [Metropolis algorithm](https://github.com/JulioAPeraza/MH_on_HC).
 
 For details about this algorithm see the preprint version of the paper "[Modeling functional resting-state brain networks through neural message passing on the human connectome](https://arxiv.org/abs/1906.05369)".
 
