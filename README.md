@@ -28,7 +28,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ### Reference list
-[Yedidia, J. S., Freeman, W. T., & Weiss, Y. (2003). "Understanding Belief Propagation and Its Generalizations." * Exploring Artificial Intelligence in the New Millennium (pp. 239–269). * San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.](http://dl.acm.org/citation.cfm?id=779343.779352)
+[Yedidia, J. S., Freeman, W. T., & Weiss, Y. (2003). "Understanding Belief Propagation and Its Generalizations." *In B. Lakemeyer, Gerhard and Nebel (Ed.), Exploring Artificial Intelligence in the New Millennium (pp. 239–269). *San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.](http://dl.acm.org/citation.cfm?id=779343.779352)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
