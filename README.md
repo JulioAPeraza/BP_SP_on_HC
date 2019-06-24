@@ -28,7 +28,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ### Reference list
-[Yedidia, J. S., Freeman, W. T., & Weiss, Y. (2003). "Understanding Belief Propagation and Its Generalizations." *In B. Lakemeyer, Gerhard and Nebel (Ed.), Exploring Artificial Intelligence in the New Millennium (pp. 239–269). *San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.](http://dl.acm.org/citation.cfm?id=779343.779352)
+[Yedidia, J. S., Freeman, W. T., & Weiss, Y. (2003). "Understanding Belief Propagation and Its Generalizations". In B. Lakemeyer, Gerhard and Nebel (Ed.), Exploring Artificial Intelligence in the New Millennium (pp. 239–269). San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.](http://dl.acm.org/citation.cfm?id=779343.779352)
+
+[Mora, T. (2007). "Geometry and Inference in Optimization and in Information Theory". Université Paris Sud - Paris XI.](http://tel.archives-ouvertes.fr/tel-00175221/en/)
+
+[Ollion, C. (2010). "Susceptibility Propagation for the Inverse Ising Model". School of Computer Science and Engineering, Royal Institute of Technology.](https://www.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2010/rapporter10/ollion_charles_10021.pdf)
+
+[Hagmann, P., Cammoun, L., Gigandet, X., Meuli, R., Honey, C. J., Wedeen, V. J., & Sporns, O. (2008). "Mapping the Structural Core of Human Cerebral Cortex". PLoS Biology, 6(7), e159.](https://doi.org/10.1371/journal.pbio.0060159)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
